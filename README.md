@@ -74,53 +74,38 @@ while (alive) {
 
 ## 🚀 Featured Projects
 
-### ⚖️ IPC–BNS Graph RAG | Legal AI
-Building a graph-based legal question-answering system combining IPC–BNS provision mapping, hybrid retrieval and answer verification to generate evidence-backed legal responses.
+### ⚖️ [IPC–BNS Graph RAG](YOUR_IPC_BNS_REPO)
+Legal AI system combining IPC–BNS mapping, hybrid retrieval and answer verification.
 
-`Python` `FastAPI` `LangGraph` `Neo4j` `RAG`
+`Python` `LangGraph` `Neo4j` `FastAPI`
+### 🔍 [Deletion Audit Agent](YOUR_DELETION_AUDIT_REPO)
+Agentic system that investigates deletion requests and verifies whether user data has actually been erased.
 
+`Python` `Agentic AI` `BM25` `Deterministic Rules`
+### 🎙️ [Agora](https://github.com/Shreya-13092006/voops_agora)
+Real-time conversational voice AI with live transcripts, agent visualisation and latency metrics.
 
-### 🔍 Deletion Audit Agent | HackerRank Orchestrate
-An agentic system designed to investigate deletion requests across multiple data sources, reconstruct user identities and determine whether personal data has actually been deleted.
+`Next.js` `TypeScript` `Agora RTC`
+### 🧪 [Generative Tarpit](https://github.com/Shreya-13092006/Generative_tarpit)
+An experimental exploration of generative AI and interactive system behaviour.
 
-`Python` `Agentic Workflows` `Deterministic Rules` `Retrieval`
+`Python` `AI`
+### 🧠 [Lost & Found](https://github.com/Shreya-13092006/Lost-And-Found-Android-App)
+AI-powered Android app matching lost and found belongings using image analysis and semantic similarity.
 
-### 🎙️ Agora | Conversational Voice AI
-A Next.js-based conversational voice application built around Agora's Conversational AI Engine, featuring real-time voice interaction, live transcripts, agent visualisation and pipeline latency metrics.
+`Kotlin` `Python` `LLaVA` `MiniLM` `Firebase`
+### 🛵 [RideRight | Synatrix](https://github.com/Shreya-13092006/Synatrix-bit2bytes)
+AI companion for gig workers featuring payout fairness analysis, OCR-based job extraction and an AI copilot.
 
-`Next.js` `React` `TypeScript` `Agora RTC` `Agora RTM`
-
-### 🧪 Generative Tarpit | AI Experiment
-An experimental project exploring generative AI concepts and interactive system behaviour.
-
-[View Repository](https://github.com/Shreya-13092006/Generative_tarpit)
-
-
-### 🧠 Lost & Found | AI-Powered Android App
-An intelligent lost-and-found platform that uses computer vision and semantic similarity matching to identify potential matches between lost and found belongings. Features LLaVA-based image analysis, MiniLM embeddings and real-time push notifications.
-
-`Kotlin` `Python` `FastAPI` `LLaVA` `Sentence Transformers` `Firebase` `Cloudinary`
-
-
-### 🛵 RideRight | AI Companion for Gig Workers
-An AI-powered platform helping gig workers understand fair payouts, manage earnings, access financial and worker-rights guidance, and monitor work-life balance. Features OCR-based job extraction, a rule-based fairness engine and an AI copilot.
-
-`React` `TypeScript` `FastAPI` `Groq` `Python` `SQLite`
-
-
-### 💚 WellBuddy | Fitness & Community Platform
-A fitness-focused web application combining personal fitness tracking with community engagement.
+`React` `TypeScript` `FastAPI` `Groq`
+### 💚 [WellBuddy](https://well-buddy.vercel.app/)
+Fitness tracking and community engagement platform.
 
 `React` `Tailwind CSS` `MongoDB`
+### 🔌 SPYS Integration
+Backend integration involving APIs, service communication and testing.
 
-[Live Demo](https://well-buddy.vercel.app)
-
-
-### 🔌 SPYS Integration | Backend Engineering
-Backend integration work involving API development, service integration and testing.
-
-`Python` `FastAPI` `Backend Engineering`
-
+`Python` `FastAPI`
 
 
 ## 🌱 Currently Exploring
@@ -138,11 +123,7 @@ Backend integration work involving API development, service integration and test
 <p align="center">
   <img src="https://img.shields.io/github/followers/Shreya-13092006?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/Shreya-13092006?style=for-the-badge&logo=github&label=Stars" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreya-13092006&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-13092006&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/last-commit/Shreya-13092006/Generative_tarpit?style=for-the-badge&logo=git&label=Latest%20Commit" />
 </p>
 
 ## 📈 Contribution Graph
