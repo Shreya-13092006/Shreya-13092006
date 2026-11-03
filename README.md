@@ -19,14 +19,17 @@ Here are some ideas to get you started:
 
 I enjoy building things, experimenting with AI, solving problems, and figuring out how things work under the hood.
 
-- 🎓 Computer Science student at **BMS College of Engineering, Bangalore**
 - 🤖 Exploring **Agentic AI, LLM Engineering, RAG & Graph-based systems**
 - ⚙️ Interested in **Backend Engineering, System Design & Problem Solving**
 - 🛠️ Building projects that combine software engineering with practical AI applications
-- 🏆 **HackerRank Orchestrate October 2026** — Ranked 98th among 4,094 submissions, with 50,000+ registrations
-- ♟️ Chess, mind games, hackathons and a healthy curiosity for all things tech.
 
----
+- ## 🎲 A Few Random Things About Me
+
+- ♟️ I enjoy chess and mind games — anything that makes me think.
+- 🏆 Slightly competitive when it comes to hackathons and coding challenges.
+- 🐛 My code and I have a complicated relationship. We debug each other.
+- ☕ Powered by caffeine and curiosity.
+- 💡 I love turning random ideas into actual projects.
 
 ## 🛠️ My Tech Stack
 
@@ -63,24 +66,57 @@ I enjoy building things, experimenting with AI, solving problems, and figuring o
 ## 🚀 Featured Projects
 
 ### ⚖️ IPC–BNS Graph RAG | Legal AI
-
-Building a graph-based legal question-answering system that combines IPC–BNS provision mapping, hybrid retrieval and answer verification to produce grounded legal responses.
+Building a graph-based legal question-answering system combining IPC–BNS provision mapping, hybrid retrieval and answer verification to generate evidence-backed legal responses.
 
 `Python` `FastAPI` `LangGraph` `Neo4j` `RAG`
 
-### 🔍 Deletion Audit Agent | HackerRank Orchestrate
+[View Repository](YOUR_IPC_BNS_REPO)
 
+### 🔍 Deletion Audit Agent | HackerRank Orchestrate
 An agentic system designed to investigate deletion requests across multiple data sources, reconstruct user identities and determine whether personal data has actually been deleted.
 
 `Python` `Agentic Workflows` `Deterministic Rules` `Retrieval`
 
-### 💚 WellBuddy | Fitness & Community Platform
+[View Repository](YOUR_DELETION_AUDIT_REPO)
 
+### 🧠 Lost & Found | AI-Powered Android App
+An intelligent lost-and-found platform that uses computer vision and semantic similarity matching to identify potential matches between lost and found belongings. Features LLaVA-based image analysis, MiniLM embeddings and real-time push notifications.
+
+`Kotlin` `Python` `FastAPI` `LLaVA` `Sentence Transformers` `Firebase` `Cloudinary`
+
+[View Repository](https://github.com/Shreya-13092006/Lost-And-Found-Android-App)
+
+### 🛵 RideRight | AI Companion for Gig Workers
+An AI-powered platform helping gig workers understand fair payouts, manage earnings, access financial and worker-rights guidance, and monitor work-life balance. Features OCR-based job extraction, a rule-based fairness engine and an AI copilot.
+
+`React` `TypeScript` `FastAPI` `Groq` `Python` `SQLite`
+
+[View Repository](https://github.com/Shreya-13092006/Synatrix-bit2bytes)
+
+### 🎙️ Agora | Conversational Voice AI
+A Next.js-based conversational voice application built around Agora's Conversational AI Engine, featuring real-time voice interaction, live transcripts, agent visualisation and pipeline latency metrics.
+
+`Next.js` `React` `TypeScript` `Agora RTC` `Agora RTM`
+
+[View Repository](https://github.com/Shreya-13092006/voops_agora)
+
+### 💚 WellBuddy | Fitness & Community Platform
 A fitness-focused web application combining personal fitness tracking with community engagement.
 
 `React` `Tailwind CSS` `MongoDB`
 
----
+[Live Demo](https://well-buddy.vercel.app)
+
+### 🧪 Generative Tarpit | AI Experiment
+An experimental project exploring generative AI concepts and interactive system behaviour.
+
+[View Repository](https://github.com/Shreya-13092006/Generative_tarpit)
+
+### 🔌 SPYS Integration | Backend Engineering
+Backend integration work involving API development, service integration and testing.
+
+`Python` `FastAPI` `Backend Engineering`
+
 
 ## 🏆 Achievements
 
@@ -126,10 +162,10 @@ A fitness-focused web application combining personal fitness tracking with commu
 Always happy to connect with people who love building, learning and exploring new ideas.
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/shreya-sharma-87447a32b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:shoereya1309@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Shreya-13092006">
