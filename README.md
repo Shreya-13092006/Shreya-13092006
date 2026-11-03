@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - ☕ Powered by caffeine and curiosity.
 - 💡 I love turning random ideas into actual projects.
 
-🧩 Developer Lore
+## 🧩 Developer Lore
 
+```javascript
 while (alive) {
     learnSomethingNew();
     buildSomethingCool();
@@ -35,6 +36,9 @@ while (alive) {
     debug();
     repeat();
 }
+```
+
+<sub>100% human. 80% caffeine. 200% debugging.</sub>
 
 ## 🛠️ My Tech Stack
 
@@ -132,20 +136,21 @@ Backend integration work involving API development, service integration and test
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreya-13092006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-13092006&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Shreya-13092006?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Shreya-13092006?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Shreya-13092006&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreya-13092006&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-13092006&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-13092006&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <a href="https://github.com/Shreya-13092006">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-13092006&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Shreya's GitHub Contribution Graph" />
+  </a>
 </p>
 
 ---
