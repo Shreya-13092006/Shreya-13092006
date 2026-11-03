@@ -37,6 +37,26 @@ while (alive) {
     repeat();
 }
 ```
+## 😺 Cat.exe
+
+<p align="center">
+
+```
+      /\_____/\
+     /  o   o  \     ┌──────────────────────────┐
+    ( ==  ^  == )    │  while (alive) {         │
+     )         (     │     code();  nap();      │
+    (           )    │     purr();  commit();   │
+   ( (  )   (  ) )   │  }                       │
+  (__(__)___(__)__)  └──────────────────────────┘
+```
+
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cat typing on keyboard" />
+</p>
+
 
 <sub>100% human. 80% caffeine. 200% debugging.</sub>
 
@@ -117,25 +137,45 @@ Backend integration involving APIs, service communication and testing.
 - DevOps and Cloud Infrastructure
 
 ---
-
-## 📊 GitHub Stats
+## 🐾 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Shreya-13092006?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Shreya-13092006?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Shreya-13092006/Generative_tarpit?style=for-the-badge&logo=git&label=Latest%20Commit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E+sudo+purr+--now+😺;%3E+compiling+ideas+into+reality...;%3E+one+commit+at+a+time+🐈‍⬛" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Shreya-13092006?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Shreya-13092006?style=for-the-badge&logo=github&label=Stars&color=f778ba&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/last-commit/Shreya-13092006/Generative_tarpit?style=for-the-badge&logo=git&label=Latest%20Commit&color=3fb950&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreya-13092006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-13092006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreya-13092006&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+## 🏆 Trophy Shelf
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreya-13092006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Shreya-13092006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-13092006&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Shreya's GitHub Contribution Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-13092006&bg_color=0d1117&color=58a6ff&line=f778ba&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Shreya's%20Contribution%20Graph" width="100%" alt="Shreya's GitHub Contribution Graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/Shreya-13092006" alt="Contribution heatmap" width="85%" />
+</p>
 
+
+---
 ## 🌐 Let's Connect!
 
 Always happy to connect with people who love building, learning and exploring new ideas.
