@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 ### Computer Science Student | AI/ML & Backend Developer | Hackathon Enthusiast
 
-I enjoy building things, experimenting with AI, solving problems, and figuring out how things work under the hood.
-
-- 🤖 Exploring **Agentic AI, LLM Engineering, RAG & Graph-based systems**
-- ⚙️ Interested in **Backend Engineering, System Design & Problem Solving**
-- 🛠️ Building projects that combine software engineering with practical AI applications
-
 - ## 🎲 A Few Random Things About Me
 
 - ♟️ I enjoy chess and mind games — anything that makes me think.
@@ -30,6 +24,17 @@ I enjoy building things, experimenting with AI, solving problems, and figuring o
 - 🐛 My code and I have a complicated relationship. We debug each other.
 - ☕ Powered by caffeine and curiosity.
 - 💡 I love turning random ideas into actual projects.
+
+🧩 Developer Lore
+
+while (alive) {
+    learnSomethingNew();
+    buildSomethingCool();
+    encounterBug();
+    questionLifeChoices();
+    debug();
+    repeat();
+}
 
 ## 🛠️ My Tech Stack
 
@@ -70,35 +75,34 @@ Building a graph-based legal question-answering system combining IPC–BNS provi
 
 `Python` `FastAPI` `LangGraph` `Neo4j` `RAG`
 
-[View Repository](YOUR_IPC_BNS_REPO)
 
 ### 🔍 Deletion Audit Agent | HackerRank Orchestrate
 An agentic system designed to investigate deletion requests across multiple data sources, reconstruct user identities and determine whether personal data has actually been deleted.
 
 `Python` `Agentic Workflows` `Deterministic Rules` `Retrieval`
 
-[View Repository](YOUR_DELETION_AUDIT_REPO)
+### 🎙️ Agora | Conversational Voice AI
+A Next.js-based conversational voice application built around Agora's Conversational AI Engine, featuring real-time voice interaction, live transcripts, agent visualisation and pipeline latency metrics.
+
+`Next.js` `React` `TypeScript` `Agora RTC` `Agora RTM`
+
+### 🧪 Generative Tarpit | AI Experiment
+An experimental project exploring generative AI concepts and interactive system behaviour.
+
+[View Repository](https://github.com/Shreya-13092006/Generative_tarpit)
+
 
 ### 🧠 Lost & Found | AI-Powered Android App
 An intelligent lost-and-found platform that uses computer vision and semantic similarity matching to identify potential matches between lost and found belongings. Features LLaVA-based image analysis, MiniLM embeddings and real-time push notifications.
 
 `Kotlin` `Python` `FastAPI` `LLaVA` `Sentence Transformers` `Firebase` `Cloudinary`
 
-[View Repository](https://github.com/Shreya-13092006/Lost-And-Found-Android-App)
 
 ### 🛵 RideRight | AI Companion for Gig Workers
 An AI-powered platform helping gig workers understand fair payouts, manage earnings, access financial and worker-rights guidance, and monitor work-life balance. Features OCR-based job extraction, a rule-based fairness engine and an AI copilot.
 
 `React` `TypeScript` `FastAPI` `Groq` `Python` `SQLite`
 
-[View Repository](https://github.com/Shreya-13092006/Synatrix-bit2bytes)
-
-### 🎙️ Agora | Conversational Voice AI
-A Next.js-based conversational voice application built around Agora's Conversational AI Engine, featuring real-time voice interaction, live transcripts, agent visualisation and pipeline latency metrics.
-
-`Next.js` `React` `TypeScript` `Agora RTC` `Agora RTM`
-
-[View Repository](https://github.com/Shreya-13092006/voops_agora)
 
 ### 💚 WellBuddy | Fitness & Community Platform
 A fitness-focused web application combining personal fitness tracking with community engagement.
@@ -107,10 +111,6 @@ A fitness-focused web application combining personal fitness tracking with commu
 
 [Live Demo](https://well-buddy.vercel.app)
 
-### 🧪 Generative Tarpit | AI Experiment
-An experimental project exploring generative AI concepts and interactive system behaviour.
-
-[View Repository](https://github.com/Shreya-13092006/Generative_tarpit)
 
 ### 🔌 SPYS Integration | Backend Engineering
 Backend integration work involving API development, service integration and testing.
@@ -118,13 +118,6 @@ Backend integration work involving API development, service integration and test
 `Python` `FastAPI` `Backend Engineering`
 
 
-## 🏆 Achievements
-
-- 🥇 HackerRank Orchestrate October 2026 — Ranked **98th among 4,094 submissions**, with 50,000+ registrations.
-- 🚀 Adobe University Hackathon — Successfully cleared Round 1.
-- 💡 Constantly exploring hackathons, engineering challenges and opportunities to build.
-
----
 
 ## 🌱 Currently Exploring
 
