@@ -1,18 +1,3 @@
-
-<!--
-**Shreya-13092006/Shreya-13092006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hey, I'm Shreya! 👋
 
 ### Computer Science Student | AI/ML & Backend Developer | Hackathon Enthusiast
@@ -39,28 +24,6 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat typing on keyboard" />
 
 </td>
-</tr>
-</table>
-
-## 🧩 Developer Lore
-
-<table>
-<tr>
-<td valign="middle" width="50%">
-
-```javascript
-while (alive) {
-    learnSomethingNew();
-    buildSomethingCool();
-    encounterBug();
-    questionLifeChoices();
-    debug();
-    repeat();
-}
-```
-
-</td>
-
 </tr>
 </table>
 
@@ -98,47 +61,76 @@ while (alive) {
 
 ## 🚀 Featured Projects
 
-### ⚖️ [IPC–BNS Graph RAG](YOUR_IPC_BNS_REPO)
+### ⚖️ [IPC–BNS Graph RAG](https://github.com/Shreya-13092006/legal_assistant_RAG)
 Legal AI system combining IPC–BNS mapping, hybrid retrieval and answer verification.
 
 `Python` `LangGraph` `Neo4j` `FastAPI`
-### 🔍 [Deletion Audit Agent](YOUR_DELETION_AUDIT_REPO)
+
+### 🔍 [Deletion Audit Agent](https://github.com/Shreya-13092006/deletion_audit_agent_hackerrank)
 Agentic system that investigates deletion requests and verifies whether user data has actually been erased.
 
 `Python` `Agentic AI` `BM25` `Deterministic Rules`
+
 ### 🎙️ [Agora](https://github.com/Shreya-13092006/voops_agora)
 Real-time conversational voice AI with live transcripts, agent visualisation and latency metrics.
 
 `Next.js` `TypeScript` `Agora RTC`
+
 ### 🧪 [Generative Tarpit](https://github.com/Shreya-13092006/Generative_tarpit)
 An experimental exploration of generative AI and interactive system behaviour.
 
 `Python` `AI`
+
 ### 🧠 [Lost & Found](https://github.com/Shreya-13092006/Lost-And-Found-Android-App)
 AI-powered Android app matching lost and found belongings using image analysis and semantic similarity.
 
 `Kotlin` `Python` `LLaVA` `MiniLM` `Firebase`
+
 ### 🛵 [RideRight | Synatrix](https://github.com/Shreya-13092006/Synatrix-bit2bytes)
 AI companion for gig workers featuring payout fairness analysis, OCR-based job extraction and an AI copilot.
 
 `React` `TypeScript` `FastAPI` `Groq`
+
 ### 💚 [WellBuddy](https://well-buddy.vercel.app/)
 Fitness tracking and community engagement platform.
 
 `React` `Tailwind CSS` `MongoDB`
+
 ### 🔌 SPYS Integration
 Backend integration involving APIs, service communication and testing.
 
 `Python` `FastAPI`
 
 
-## 🌱 Currently Exploring
+## 🌱 Currently Exploring & 🧩 Developer Lore
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 - Advanced Machine Learning & LLM Engineering
 - Agentic AI and Multi-Agent Systems
 - Graph RAG and Knowledge Graphs
 - System Design and Backend Architecture
 - DevOps and Cloud Infrastructure
+
+</td>
+<td valign="top" width="50%">
+
+```javascript
+while (alive) {
+    learnSomethingNew();
+    buildSomethingCool();
+    encounterBug();
+    questionLifeChoices();
+    debug();
+    repeat();
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 ## 🐾 GitHub Stats
@@ -154,13 +146,13 @@ Backend integration involving APIs, service communication and testing.
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="90%" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="75%">
 </p>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/Shreya-13092006" alt="Contribution heatmap" width="85%" />
+  <img src="https://raw.githubusercontent.com/Shreya-13092006/Shreya-13092006/output/github-snake-dark.svg" alt="Contribution snake" width="90%">
 </p>
 
 ---
