@@ -27,7 +27,11 @@
 </tr>
 </table>
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Stack & 🌱 Currently Exploring
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### 💻 Languages
 
@@ -56,6 +60,34 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,docker,git,github,vscode&theme=dark" />
 </p>
+
+</td>
+<td valign="top" width="45%">
+
+### 🌱 Currently Exploring
+
+- Advanced Machine Learning & LLM Engineering
+- Agentic AI and Multi-Agent Systems
+- Graph RAG and Knowledge Graphs
+- System Design and Backend Architecture
+- DevOps and Cloud Infrastructure
+
+### 🧩 Developer Lore
+
+```javascript
+while (alive) {
+    learnSomethingNew();
+    buildSomethingCool();
+    encounterBug();
+    questionLifeChoices();
+    debug();
+    repeat();
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -100,37 +132,6 @@ Fitness tracking and community engagement platform.
 Backend integration involving APIs, service communication and testing.
 
 `Python` `FastAPI`
-
-
-## 🌱 Currently Exploring & 🧩 Developer Lore
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-- Advanced Machine Learning & LLM Engineering
-- Agentic AI and Multi-Agent Systems
-- Graph RAG and Knowledge Graphs
-- System Design and Backend Architecture
-- DevOps and Cloud Infrastructure
-
-</td>
-<td valign="top" width="50%">
-
-```javascript
-while (alive) {
-    learnSomethingNew();
-    buildSomethingCool();
-    encounterBug();
-    questionLifeChoices();
-    debug();
-    repeat();
-}
-```
-
-</td>
-</tr>
-</table>
 
 ---
 ## 🐾 GitHub Stats
