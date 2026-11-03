@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Computer Science Student | AI/ML & Backend Developer | Hackathon Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&width=500&lines=%3E+sudo+purr+--now+😺;%3E+compiling+ideas+into+reality...;%3E+one+commit+at+a+time+🐈‍⬛" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&width=500&lines=sudo+purr+--now;compiling+ideas+into+reality...;one+commit+at+a+time" alt="Typing SVG" />
 
 ## 🎲 A Few Random Things About Me
 
