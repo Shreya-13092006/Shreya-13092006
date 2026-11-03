@@ -144,7 +144,7 @@ Backend integration involving APIs, service communication and testing.
 ## 🐾 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E+sudo+purr+--now+😺;%3E+compiling+ideas+into+reality...;%3E+one+commit+at+a+time+🐈‍⬛" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=sudo+purr+--now;compiling+ideas+into+reality...;one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -154,30 +154,14 @@ Backend integration involving APIs, service communication and testing.
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreya-13092006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-13092006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shreya-13092006&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-## 🏆 Trophy Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreya-13092006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="90%" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-13092006&bg_color=0d1117&color=58a6ff&line=f778ba&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Shreya's%20Contribution%20Graph" width="100%" alt="Shreya's GitHub Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/58a6ff/Shreya-13092006" alt="Contribution heatmap" width="85%" />
 </p>
-
 
 ---
 ## 🌐 Let's Connect!
