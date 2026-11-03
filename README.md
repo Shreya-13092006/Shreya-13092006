@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 
 ### Computer Science Student | AI/ML & Backend Developer | Hackathon Enthusiast
 
-- ## 🎲 A Few Random Things About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&width=500&lines=%3E+sudo+purr+--now+😺;%3E+compiling+ideas+into+reality...;%3E+one+commit+at+a+time+🐈‍⬛" alt="Typing SVG" />
+
+## 🎲 A Few Random Things About Me
+
+<table>
+<tr>
+<td valign="middle" width="60%">
 
 - ♟️ I enjoy chess and mind games — anything that makes me think.
 - 🏆 Slightly competitive when it comes to hackathons and coding challenges.
@@ -25,7 +31,22 @@ Here are some ideas to get you started:
 - ☕ Powered by caffeine and curiosity.
 - 💡 I love turning random ideas into actual projects.
 
+<sub>100% human. 80% caffeine. 200% debugging.</sub>
+
+</td>
+<td valign="middle" align="center" width="40%">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat typing on keyboard" />
+
+</td>
+</tr>
+</table>
+
 ## 🧩 Developer Lore
+
+<table>
+<tr>
+<td valign="middle" width="50%">
 
 ```javascript
 while (alive) {
@@ -37,28 +58,24 @@ while (alive) {
     repeat();
 }
 ```
-## 😺 Cat.exe
 
-<p align="center">
+</td>
+<td valign="middle" align="center" width="50%">
 
 ```
       /\_____/\
-     /  o   o  \     ┌──────────────────────────┐
-    ( ==  ^  == )    │  while (alive) {         │
-     )         (     │     code();  nap();      │
-    (           )    │     purr();  commit();   │
-   ( (  )   (  ) )   │  }                       │
-  (__(__)___(__)__)  └──────────────────────────┘
+     /  o   o  \
+    ( ==  ^  == )
+     )         (
+    (           )
+   ( (  )   (  ) )
+  (__(__)___(__)__)
+     cat.exe 😺
 ```
 
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cat typing on keyboard" />
-</p>
-
-
-<sub>100% human. 80% caffeine. 200% debugging.</sub>
+</td>
+</tr>
+</table>
 
 ## 🛠️ My Tech Stack
 
@@ -181,8 +198,8 @@ Backend integration involving APIs, service communication and testing.
 Always happy to connect with people who love building, learning and exploring new ideas.
 
 <p align="left">
-  <a href="www.linkedin.com/in/shreya-sharma-87447a32b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/shreya-sharma-87447a32b">
+       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shoereya1309@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
