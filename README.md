@@ -142,11 +142,15 @@ while (alive) {
 <p align="center">
   <img src="https://img.shields.io/github/followers/Shreya-13092006?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=0d1117" />
   <img src="https://img.shields.io/github/stars/Shreya-13092006?style=for-the-badge&logo=github&label=Stars&color=f778ba&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/last-commit/Shreya-13092006/Generative_tarpit?style=for-the-badge&logo=git&label=Latest%20Commit&color=3fb950&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="75%">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="48%">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="48%">
 </p>
 
 ## 🐍 Contribution Snake
