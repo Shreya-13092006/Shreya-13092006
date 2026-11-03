@@ -60,20 +60,7 @@ while (alive) {
 ```
 
 </td>
-<td valign="middle" align="center" width="50%">
 
-```
-      /\_____/\
-     /  o   o  \
-    ( ==  ^  == )
-     )         (
-    (           )
-   ( (  )   (  ) )
-  (__(__)___(__)__)
-     cat.exe 😺
-```
-
-</td>
 </tr>
 </table>
 
