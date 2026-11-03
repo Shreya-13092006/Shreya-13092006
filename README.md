@@ -27,8 +27,7 @@
 </tr>
 </table>
 
-## 🛠️ My Tech Stack & 🌱 Currently Exploring
-
+## 🛠️ My Tech Stack 
 <table>
 <tr>
 <td valign="top" width="55%">
